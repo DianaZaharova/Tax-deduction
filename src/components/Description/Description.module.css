@@ -1,0 +1,12 @@
+.description {
+  color: #808080;
+  margin-top: 0;
+  margin-bottom: 24px;
+}
+
+@media (max-width: 375px) {
+  .description {
+    font-size: 12px;
+    line-height: 16px;
+  }
+}

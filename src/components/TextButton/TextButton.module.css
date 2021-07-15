@@ -1,0 +1,22 @@
+.button {
+  font-family: inherit;
+  color: #ea0029;
+  font-size: inherit;
+  line-height: inherit;
+  font-weight: 500;
+  border: none;
+  background-color: transparent;
+  transition: color 0.3s;
+  cursor: pointer;
+  padding: 0;
+  margin-bottom: 16px;
+  align-self: flex-start;
+}
+
+.button:hover {
+  color: #f53a31;
+}
+
+.button:active {
+  color: #ea0029;
+}
