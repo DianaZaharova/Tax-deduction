@@ -40,12 +40,13 @@ const App = () => {
 
   return (
     <div className={styles.wrap}>
-      <Button
-        text={"Налоговый вычет"}
-        type="small"
-        onClick={() => setPopupOpen(!isPopupOpen)}
-      />
-      {isPopupOpen && (
+      {!isPopupOpen ? (
+        <Button
+          text={"Налоговый вычет"}
+          type="small"
+          onClick={() => setPopupOpen(!isPopupOpen)}
+        />
+      ) : (
         <Popup
           setError={setError}
           error={error}
