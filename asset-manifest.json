@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Tax-deduction/static/css/main.deb3b1cf.chunk.css",
+    "main.js": "/Tax-deduction/static/js/main.63e56f93.chunk.js",
+    "main.js.map": "/Tax-deduction/static/js/main.63e56f93.chunk.js.map",
+    "runtime-main.js": "/Tax-deduction/static/js/runtime-main.7d165ced.js",
+    "runtime-main.js.map": "/Tax-deduction/static/js/runtime-main.7d165ced.js.map",
+    "static/js/2.2573787c.chunk.js": "/Tax-deduction/static/js/2.2573787c.chunk.js",
+    "static/js/2.2573787c.chunk.js.map": "/Tax-deduction/static/js/2.2573787c.chunk.js.map",
+    "index.html": "/Tax-deduction/index.html",
+    "static/css/main.deb3b1cf.chunk.css.map": "/Tax-deduction/static/css/main.deb3b1cf.chunk.css.map",
+    "static/js/2.2573787c.chunk.js.LICENSE.txt": "/Tax-deduction/static/js/2.2573787c.chunk.js.LICENSE.txt",
+    "static/media/fonst.css": "/Tax-deduction/static/media/LabGrotesque-500.1713e506.woff",
+    "static/media/InfoItem.module.css": "/Tax-deduction/static/media/check-icon.db42bbfd.svg",
+    "static/media/Popup.module.css": "/Tax-deduction/static/media/icon-cross.075fa808.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d165ced.js",
+    "static/js/2.2573787c.chunk.js",
+    "static/css/main.deb3b1cf.chunk.css",
+    "static/js/main.63e56f93.chunk.js"
+  ]
+}
